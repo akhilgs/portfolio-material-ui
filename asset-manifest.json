@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c2b1041.chunk.css",
+    "main.js": "/static/js/main.f2847b26.chunk.js",
+    "main.js.map": "/static/js/main.f2847b26.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89fb7af1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89fb7af1.js.map",
+    "static/js/2.1359ba4b.chunk.js": "/static/js/2.1359ba4b.chunk.js",
+    "static/js/2.1359ba4b.chunk.js.map": "/static/js/2.1359ba4b.chunk.js.map",
+    "static/js/3.1bd07401.chunk.js": "/static/js/3.1bd07401.chunk.js",
+    "static/js/3.1bd07401.chunk.js.map": "/static/js/3.1bd07401.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7c2b1041.chunk.css.map": "/static/css/main.7c2b1041.chunk.css.map",
+    "static/js/2.1359ba4b.chunk.js.LICENSE.txt": "/static/js/2.1359ba4b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/OpenSans-Regular.1b0809d5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fb7af1.js",
+    "static/js/2.1359ba4b.chunk.js",
+    "static/css/main.7c2b1041.chunk.css",
+    "static/js/main.f2847b26.chunk.js"
+  ]
+}
